@@ -22,3 +22,9 @@
 [submodule "CPP07"]
 	path = CPP07
 	url = https://github.com/Jonstep101010/CPP07.git
+[submodule "CPP08"]
+	path = CPP08
+	url = https://github.com/Jonstep101010/CPP08.git
+[submodule "CPP09"]
+	path = CPP09
+	url = https://github.com/Jonstep101010/CPP09.git
